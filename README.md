@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Profile)
 
-<img src="https://avatars.githubusercontent.com/your-github-Peter-Adjao width="120" align="right" style="border-radius:50%;" />
+<img src="https://avatars.githubusercontent.com/Peter-Adjao width="120" align="right" style="border-radius:50%;" />
 
 ## 🚀 About Me
 - 🎓 Bachelor of Education in Information Technology with 4+ years of teaching experience.  
