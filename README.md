@@ -2,7 +2,6 @@
 
 ![Profile Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Profile)
 
-<img src="https://github.com/peter-adjao.png" width="150" style="border-radius: 50%;" alt="Profile Image">
 
 
 ## 🚀 About Me
