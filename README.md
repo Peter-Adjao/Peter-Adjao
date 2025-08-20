@@ -9,7 +9,7 @@
 - 💻 Junior Frontend Developer | Aspiring Full-Stack Engineer  
 - 🌱 Currently learning ** React, Reat Native, Next.js, TypeScript & Tailwind CSS**  
 - 👯 Open to collaborating on **frontend projects & open-source**  
-- ⚡ Fun fact: I see challenges as opportunities for creativity and growth.  
+- ⚡ Fun fact: Every challenge I face leads to new discovery and laerning.  
 
 ---
 
